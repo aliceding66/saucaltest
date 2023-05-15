@@ -1,0 +1,29 @@
+// import the existing default css styles of the themes
+@import '~styles/saucal-includes';
+
+// use BEM format to write scss 
+.api-block {
+	max-width: 500px;
+	background-image: url( '/images/background.jpg');
+	// this is the style of the whole block (mostly we use bootstrap class so minimize the customized style coding as possible as we can)
+
+	&-xxxx {
+		width: 100%;
+	}
+	// this is the style of the whole block (mostly we use bootstrap class so minimize the customized style coding as possible as we can)
+
+	&-xxxxx {
+		width: 100%;
+	}
+	// this is the style of the whole block (mostly we use bootstrap class so minimize the customized style coding as possible as we can)
+
+	&-xxxxxxx {
+		width: 100%;
+	}
+	// this is the style of the whole block (mostly we use bootstrap class so minimize the customized style coding as possible as we can)
+
+	&-xxxxxxxx {
+		width: 100%;
+	}
+	// this is the style of the whole block (mostly we use bootstrap class so minimize the customized style coding as possible as we can)
+}

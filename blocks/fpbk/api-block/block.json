@@ -1,0 +1,12 @@
+{
+  "apiVersion": 2,
+  "name": "saucal/apiblock",
+  "title": "API Block",
+  "category": "saucalblocks",
+  "description": "This is an API Block.",
+  "textdomain": "saucal",
+  "supports": {
+    "anchor": true,
+    "align": true
+  }
+}
